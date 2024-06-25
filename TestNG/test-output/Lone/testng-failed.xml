@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Lone]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Regression1(failed)">
+    <parameter name="URL" value="mob.com"/>
+    <classes>
+      <class name="SampleTestNG.Parametrs2">
+        <methods>
+          <include name="MobileHomeLoneLogin"/>
+          <include name="APIHomeLone"/>
+          <include name="webHomeLone"/>
+        </methods>
+      </class> <!-- SampleTestNG.Parametrs2 -->
+    </classes>
+  </test> <!-- Regression1(failed) -->
+</suite> <!-- Failed suite [Lone] -->

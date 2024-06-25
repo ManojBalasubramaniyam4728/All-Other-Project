@@ -1,0 +1,25 @@
+name: Test
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    if: github.repository == 'mobile-dev-inc/maestro'
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Install JDK
+        uses: actions/setup-java@v3
+        with:
+          distribution: 'zulu'
+          java-version: 8
+
+      - uses: gradle/gradle-build-action@v2
+
+      - name: Test
+        run: ./gradlew test

@@ -1,0 +1,20 @@
+appId: com.example.app
+---
+- pressKey: Enter
+- pressKey: Backspace
+- pressKey: Home
+- pressKey: back
+- pressKey: Volume Up
+- pressKey: volume Down
+- pressKey: lOcK
+- pressKey: remote dpad up
+- pressKey: Remote dpad Down
+- pressKey: Remote Dpad Left
+- pressKey: Remote Dpad Right
+- pressKey: remote dpad Center
+- pressKey: rEmote Media plAy Pause
+- pressKey: RemOte MediA StoP
+- pressKey: remote Media NeXt
+- pressKey: Remote Media Previous
+- pressKey: REMOTE MEDIA REWIND
+- pressKey: Remote Media Fast Forward

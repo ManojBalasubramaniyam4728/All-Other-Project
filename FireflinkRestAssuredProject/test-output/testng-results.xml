@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-02T18:30:29 IST" name="Default suite" finished-at="2024-04-02T18:30:30 IST" duration-ms="1475">
+    <groups>
+    </groups>
+    <test started-at="2024-04-02T18:30:29 IST" name="Default test" finished-at="2024-04-02T18:30:30 IST" duration-ms="1475">
+      <class name="reqres.Users">
+        <test-method signature="CreateUser()[pri:0, instance:reqres.Users@18d87d80]" started-at="2024-04-02T18:30:29 IST" name="CreateUser" finished-at="2024-04-02T18:30:30 IST" duration-ms="1357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateUser -->
+        <test-method signature="ListUsers()[pri:0, instance:reqres.Users@18d87d80]" started-at="2024-04-02T18:30:30 IST" name="ListUsers" finished-at="2024-04-02T18:30:30 IST" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ListUsers -->
+      </class> <!-- reqres.Users -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

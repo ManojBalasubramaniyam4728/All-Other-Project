@@ -1,0 +1,26 @@
+15:43:38.225 [main] ERROR Package1.demo - Error message
+15:43:38.227 [main] FATAL Package1.demo - This is fatal
+16:33:17.947 [main] DEBUG Package1.demo - i am debuging
+16:33:17.950 [main] INFO  Package1.demo - Info message
+16:33:17.950 [main] ERROR Package1.demo - Error message
+16:33:17.950 [main] FATAL Package1.demo - This is fatal
+16:37:52.510 [main] DEBUG Package1.demo - i am debuging
+16:37:52.514 [main] INFO  Package1.demo - Info message
+16:37:52.515 [main] ERROR Package1.demo - Error message
+16:37:52.515 [main] FATAL Package1.demo - This is fatal
+16:38:15.210 [main] DEBUG Package1.demo - i am debuging
+16:38:15.213 [main] INFO  Package1.demo - Info message
+16:38:15.213 [main] ERROR Package1.demo - Error message
+16:38:15.235 [main] FATAL Package1.demo - This is fatal
+16:00:17.470 [main] DEBUG Package1.demo - i am debuging
+16:00:17.474 [main] INFO  Package1.demo - Info message
+16:00:17.474 [main] ERROR Package1.demo - Error message
+16:00:17.474 [main] FATAL Package1.demo - This is fatal
+16:03:39.463 [main] DEBUG Package1.demo - i am debuging
+16:03:39.481 [main] INFO  Package1.demo - Info message
+16:03:39.482 [main] ERROR Package1.demo - Error message
+16:03:39.483 [main] FATAL Package1.demo - This is fatal
+16:03:39.570 [main] DEBUG Package1.demo - i am debuging
+16:03:39.574 [main] INFO  Package1.demo - Info message
+16:03:39.575 [main] ERROR Package1.demo - Error message
+16:03:39.575 [main] FATAL Package1.demo - This is fatal

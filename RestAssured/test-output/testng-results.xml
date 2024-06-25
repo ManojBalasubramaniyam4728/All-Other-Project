@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-02T11:40:19 IST" name="Default suite" finished-at="2024-01-02T11:40:21 IST" duration-ms="2211">
+    <groups>
+    </groups>
+    <test started-at="2024-01-02T11:40:19 IST" name="Default test" finished-at="2024-01-02T11:40:21 IST" duration-ms="2211">
+      <class name="RestAssuredTestsPractice.TC002_Post">
+        <test-method signature="post()[pri:0, instance:RestAssuredTestsPractice.TC002_Post@58695725]" started-at="2024-01-02T11:40:19 IST" name="post" finished-at="2024-01-02T11:40:21 IST" duration-ms="2173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post -->
+      </class> <!-- RestAssuredTestsPractice.TC002_Post -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

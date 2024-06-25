@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-01T16:27:29 IST" name="Default suite" finished-at="2024-04-01T16:27:36 IST" duration-ms="6764">
+    <groups>
+    </groups>
+    <test started-at="2024-04-01T16:27:29 IST" name="Default test" finished-at="2024-04-01T16:27:36 IST" duration-ms="6764">
+      <class name="Selenium_For_PE.Open_Browser_In_Incognito">
+        <test-method signature="openbrowser()[pri:0, instance:Selenium_For_PE.Open_Browser_In_Incognito@238d68ff]" started-at="2024-04-01T16:27:29 IST" name="openbrowser" finished-at="2024-04-01T16:27:36 IST" duration-ms="6671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+      </class> <!-- Selenium_For_PE.Open_Browser_In_Incognito -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

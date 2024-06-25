@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="5" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-25T15:48:36 IST" name="Default suite" finished-at="2024-05-25T15:48:36 IST" duration-ms="101">
+    <groups>
+    </groups>
+    <test started-at="2024-05-25T15:48:36 IST" name="Default test" finished-at="2024-05-25T15:48:36 IST" duration-ms="101">
+      <class name="SampleTestNG.Helper_Attrubutes_Of_TestNG">
+        <test-method is-config="true" signature="IWillExecuteFirst()[pri:0, instance:SampleTestNG.Helper_Attrubutes_Of_TestNG@3e84448c]" started-at="2024-05-25T15:48:36 IST" name="IWillExecuteFirst" finished-at="2024-05-25T15:48:36 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IWillExecuteFirst -->
+        <test-method signature="MobileHomeLoneLogin()[pri:0, instance:SampleTestNG.Helper_Attrubutes_Of_TestNG@3e84448c]" started-at="2024-05-25T15:48:36 IST" name="MobileHomeLoneLogin" finished-at="2024-05-25T15:48:36 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileHomeLoneLogin -->
+        <test-method signature="webHomeLone()[pri:0, instance:SampleTestNG.Helper_Attrubutes_Of_TestNG@3e84448c]" started-at="2024-05-25T15:48:36 IST" name="webHomeLone" finished-at="2024-05-25T15:48:36 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webHomeLone -->
+        <test-method signature="MobileHomeLoneSignOut()[pri:0, instance:SampleTestNG.Helper_Attrubutes_Of_TestNG@3e84448c]" started-at="2024-05-25T15:48:36 IST" name="MobileHomeLoneSignOut" finished-at="2024-05-25T15:48:36 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileHomeLoneSignOut -->
+        <test-method signature="MobileHomeLoneSignIn()[pri:0, instance:SampleTestNG.Helper_Attrubutes_Of_TestNG@3e84448c]" started-at="2024-05-25T15:48:36 IST" name="MobileHomeLoneSignIn" finished-at="2024-05-25T15:48:36 IST" depends-on-methods="SampleTestNG.Helper_Attrubutes_Of_TestNG.webHomeLone, SampleTestNG.Helper_Attrubutes_Of_TestNG.MobileHomeLoneLogin" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileHomeLoneSignIn -->
+        <test-method is-config="true" signature="IWillExecuteLast()[pri:0, instance:SampleTestNG.Helper_Attrubutes_Of_TestNG@3e84448c]" started-at="2024-05-25T15:48:36 IST" name="IWillExecuteLast" finished-at="2024-05-25T15:48:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IWillExecuteLast -->
+      </class> <!-- SampleTestNG.Helper_Attrubutes_Of_TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
